@@ -8,8 +8,7 @@ This project involves the design and implementation of a mini processor using Ve
 
 1. [Project Description](#project-description)
 2. [Features](#features)
-3. [Directory Structure](#directory-structure)
-4. [Instructions](#instructions)
+3. [Instructions](#instructions)
 
 ## Project Description
 
@@ -21,8 +20,6 @@ The mini processor has a register file consisting of 16 registers, each of 8 bit
 - **Instruction Set**: Implements a variety of instructions including arithmetic, logical, and control operations.
 - **FPGA Implementation**: Synthesized and tested on an FPGA for real-world validation.
 - **Detailed Testbenches**: Comprehensive testing for each module and the overall processor.
-
-## Directory Structure
 
 ## Instructions
 
